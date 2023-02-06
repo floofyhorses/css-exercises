@@ -1,0 +1,24 @@
+.change-font-size {
+    font-size: 24px;
+}
+
+
+.odd {
+    background-color: #c48b9d;
+    font: 'Verdana', 'DejaVu Sans', sans-serif;
+
+}
+
+
+#second {
+    color: rgb(50, 54, 168);
+    font-size: 36px;
+}
+
+.bold {
+    font-weight:bold;
+}
+#green {
+    background-color: hsl(120, 90%, 75%);
+    font-size: 24px;
+}
